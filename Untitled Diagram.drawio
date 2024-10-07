@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="ArStcaM5DUYL-hzr79vU">
-    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-1" value="Frrontend development protocol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="30" width="520" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h19QluJANSFqdkkZkH_Q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-2" target="h19QluJANSFqdkkZkH_Q-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="320" y="40" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-2" target="h19QluJANSFqdkkZkH_Q-10">
           <mxGeometry relative="1" as="geometry" />
@@ -22,103 +19,119 @@
         <mxCell id="h19QluJANSFqdkkZkH_Q-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-2" target="h19QluJANSFqdkkZkH_Q-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="260" />
-              <mxPoint x="180" y="260" />
+              <mxPoint x="430" y="270" />
+              <mxPoint x="340" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h19QluJANSFqdkkZkH_Q-2" value="Dizayn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h19QluJANSFqdkkZkH_Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-6" target="h19QluJANSFqdkkZkH_Q-8">
+        <mxCell id="h19QluJANSFqdkkZkH_Q-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-2" target="h19QluJANSFqdkkZkH_Q-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h19QluJANSFqdkkZkH_Q-2" value="Dizayn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h19QluJANSFqdkkZkH_Q-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-6" target="h19QluJANSFqdkkZkH_Q-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="270" />
+              <mxPoint x="340" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-6" value="Dizaynda ishlatilgan componentlarni ajratish ( agar ajratilmagan bo&#39;lsa)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="200" width="220" height="40" as="geometry" />
+          <mxGeometry x="180" y="200" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-8" target="h19QluJANSFqdkkZkH_Q-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-8" value="Componentalarni plugin orqali html ga ko&#39;chirish&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="200" height="50" as="geometry" />
+          <mxGeometry x="240" y="290" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-10" target="h19QluJANSFqdkkZkH_Q-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-10" value="Dizayn asosida diskussiya&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="460" y="210" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-12" target="h19QluJANSFqdkkZkH_Q-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-12" value="Proyekt bo&#39;yicha tanishuv frontend taraf hal qilishi kerak bo&#39;lgan funksonallarni belgilash tehnik talablar&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="120" width="240" height="41" as="geometry" />
+          <mxGeometry x="680" y="130" width="240" height="41" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-16" target="h19QluJANSFqdkkZkH_Q-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-16" target="h19QluJANSFqdkkZkH_Q-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="635" y="360" as="targetPoint" />
+            <mxPoint x="795" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-16" value="Proyekt uchun qoyiladigan no funksonal talablar&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="240" height="40" as="geometry" />
+          <mxGeometry x="680" y="210" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-18" target="h19QluJANSFqdkkZkH_Q-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-18" value="Dizayn va proyekt uchun qoyilgan talablarni bir biriga mos kelishini aniqlash&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="200" height="50" as="geometry" />
+          <mxGeometry x="560" y="290" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-21" target="h19QluJANSFqdkkZkH_Q-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="500" />
-              <mxPoint x="400" y="500" />
+              <mxPoint x="800" y="510" />
+              <mxPoint x="560" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-21" value="Project uchun arxitektura tanlash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="440" width="240" height="40" as="geometry" />
+          <mxGeometry x="680" y="450" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-44" target="h19QluJANSFqdkkZkH_Q-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-23" value="Arxitektura asosiya projectni qismlarga ajratish&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="240" height="40" as="geometry" />
+          <mxGeometry x="440" y="540" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h19QluJANSFqdkkZkH_Q-26" value="Common&amp;nbsp; funksonallarni, composable lar,&amp;nbsp; ajratish&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="760" width="230" height="40" as="geometry" />
+        <mxCell id="h19QluJANSFqdkkZkH_Q-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-26" target="h19QluJANSFqdkkZkH_Q-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h19QluJANSFqdkkZkH_Q-26" value="Common&amp;nbsp; funksonallarni, composable lar,&amp;nbsp; ajratish, routelarni yaratish&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="770" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-28" target="h19QluJANSFqdkkZkH_Q-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-28" value="Pagelarni ajratish va ularni o&#39;zini qismlarga ajratish" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="760" width="230" height="40" as="geometry" />
+          <mxGeometry x="690" y="770" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-33" value="Projectni api qismini ajratish" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="760" width="240" height="40" as="geometry" />
+          <mxGeometry x="440" y="770" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-35" target="h19QluJANSFqdkkZkH_Q-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-35" value="Proyekt backend qism bilan qanday bog&#39;lanishini aniqlash ( api, env, auth )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="360" width="240" height="40" as="geometry" />
+          <mxGeometry x="680" y="370" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h19QluJANSFqdkkZkH_Q-40" value="Common&amp;nbsp; funksonallarni, composable lar,&amp;nbsp; ajratish&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="837" width="230" height="40" as="geometry" />
+        <mxCell id="h19QluJANSFqdkkZkH_Q-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="920.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-41" value="Layoutlar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="837" width="230" height="40" as="geometry" />
+          <mxGeometry x="570" y="850" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h19QluJANSFqdkkZkH_Q-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-42" target="h19QluJANSFqdkkZkH_Q-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-42" value="Storelar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="837" width="240" height="40" as="geometry" />
+          <mxGeometry x="320" y="850" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-23" target="h19QluJANSFqdkkZkH_Q-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="570" as="sourcePoint" />
-            <mxPoint x="400" y="760" as="targetPoint" />
+            <mxPoint x="560" y="580" as="sourcePoint" />
+            <mxPoint x="560" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-44" target="h19QluJANSFqdkkZkH_Q-26">
@@ -128,7 +141,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h19QluJANSFqdkkZkH_Q-44" value="Projectda dublikat kodlardan qochish ularni common ko&#39;rinishga o&#39;tkazish, dublikat componentlarni layoutga ko&#39;chirish ularga event ni event-bus orqali chiqarish, style larni scope holatda ishlatishga asoslanib ( istisno bo&#39;lishi mumkin )&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="580" width="480" height="60" as="geometry" />
+          <mxGeometry x="320" y="620" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h19QluJANSFqdkkZkH_Q-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h19QluJANSFqdkkZkH_Q-52" target="h19QluJANSFqdkkZkH_Q-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h19QluJANSFqdkkZkH_Q-52" value="Componentlarni funksonallarini ulash&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h19QluJANSFqdkkZkH_Q-55" value="Pagelarga ni apiga ulash, componentlarni funksonaligni page bilan bog&#39;lash&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="980" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
